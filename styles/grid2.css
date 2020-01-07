@@ -22,5 +22,10 @@
 
 .item3{
     grid-area: content;
-    
+    background: #B8E986;
+}
+
+.item4 {
+    grid-area: footer;
+    background: #E9C886
 }
