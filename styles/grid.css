@@ -15,3 +15,8 @@
     justify-self: end;
     align-self: end;
 }
+
+.item4 {
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
