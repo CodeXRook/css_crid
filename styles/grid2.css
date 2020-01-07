@@ -9,3 +9,9 @@
         "sidbare content content"
         "footer footer footer"
 }
+
+.item1 {
+    grid-area: header;
+    background: #86b6E9;
+}
+
