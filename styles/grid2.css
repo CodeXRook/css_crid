@@ -15,3 +15,12 @@
     background: #86b6E9;
 }
 
+.item2 {
+    grid-area: sidebar;
+    background: #DDE986;
+}
+
+.item3{
+    grid-area: content;
+    
+}
