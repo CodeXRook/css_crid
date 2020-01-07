@@ -10,3 +10,8 @@
 .item {
     background: rgba(55, 143, 63, 0.603);
 }
+
+.item1 {
+    justify-self: end;
+    align-self: end;
+}
